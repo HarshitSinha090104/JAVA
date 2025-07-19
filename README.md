@@ -1,2 +1,2 @@
-# JAVA
-This is java program
+# Python
+This is Python program
